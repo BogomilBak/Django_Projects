@@ -1,0 +1,1 @@
+SECRET_KEY_HIDDEN = 'django-insecure-kxsd@39$j$^4bq+58z&e_x$w+#7%_gev^wck0f$3-$xw2308k3'
